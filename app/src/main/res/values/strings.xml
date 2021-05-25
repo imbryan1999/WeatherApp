@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="edit_text">Enter City Name</string>
+    <string name="search_btn">Search Weather</string>
+    <string name="country">IN</string>
+    <string name="city">Greater Noida</string>
+    <string name="date">05/14/2021</string>
+    <string name="time">08/38/15</string>
+    <string name="temp">TEMP</string>
+
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="Humidity">Humidity</string>
+    <string name="Sunrise">SunRise</string>
+    <string name="Sunset">SunSet</string>
+    <string name="Pressure">Pressure</string>
+    <string name="Wind_Speed">Wind Speed</string>
+    <string name="img">Image</string>
+    <string name="dot">:</string>
+</resources>
